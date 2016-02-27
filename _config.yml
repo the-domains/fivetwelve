@@ -1,7 +1,7 @@
 name: fivetwelve
 favicon: null
-layout_spectrum: 0.0533195361495018
-typography_spectrum: 0.3718884219415486
+layout_spectrum: 0.28635
+typography_spectrum: 0.65018
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.509806550340727
-  lightness: 0.6086116963997483
-  saturation: 0.03149610827676952
-  rhythmicContrast: 0.662136506754905
+    - '#010101'
+    - '#d3a884'
+    - '#a1795d'
+    - '#9e2c27'
+    - '#456c6b'
+  brandStrength: 0.5625
+  lightness: 0.4375
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
